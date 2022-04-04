@@ -1,6 +1,6 @@
 # E<sup>3</sup>SA
 
-Source code for the paper,“Enhancing Event-Level Sentiment Analysis with Structured Arguments”. The completed codes will be released after the paper being accepted.
+Source dataset for the paper,“Enhancing Event-Level Sentiment Analysis with Structured Arguments”. 
 
 ## Overview
 
