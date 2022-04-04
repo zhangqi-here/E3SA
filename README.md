@@ -43,3 +43,14 @@ We collect and label a real-world dataset in the finance domain for this task (C
 
 Run `unzip Data.zip`
 
+## Citation
+If you find our work interesting, you can cite the paper as
+
+```
+@inproceedings{zhang2022enhancing,
+               title={Enhancing Event-Level Sentiment Analysis with Structured Arguments},
+               author={Zhang, Qi and Zhou, Jie and Chen, Qin and Bai, Qingchun and He, Liang},
+               booktitle={SIGIR},
+               year={2022}
+}
+```
